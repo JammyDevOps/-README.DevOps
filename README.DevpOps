@@ -3,17 +3,18 @@
 #Create new opportunity 
 1 resource 
 
-	Resource “Mid/Senior Azure DevOps”
+	       Resource “Mid/Senior Azure DevOps”
 			Industry “Global Logistics”
 			Location “Remote or Maidenhead”
 			Pay 50,000-90,000”
 
-	Tags { 
+		Tags { 
 			Environment = “Cloud”
 			Build = “Azure DevOps”
 				“PowerShell, ARM/Terraform”
 				“C#, Java, JavaScript”
 			}
+			
 #Create call 07548664451 
 #Create email jamie.brown@cloudstreamglobal.com 
 
@@ -23,11 +24,11 @@ C:
 #Create new opportunity 
 6 resources 
 
-	Tags {
-			Environment = Junior-Mid-Senior DevOps/SRE 
-			Build = Cloud: AWS/Azure, DevOps, Bash/C-Shell & CI/CD 
-			Pay = 30,000-90,000
-			}
+		Tags {
+				Environment = Junior-Mid-Senior DevOps/SRE 
+				Build = Cloud: AWS/Azure, DevOps, Bash/C-Shell & CI/CD 
+				Pay = 30,000-90,000
+				}
 		Tags {
 				Environment = Head of DevOps   
 				Build = Multi Cloud, DevOps & CI/CD
